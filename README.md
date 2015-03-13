@@ -6,7 +6,4 @@ level: advanced
 
 # Space Invaders
 
-now iwth more space!
- 
- 
- 
+This is a test for @Logan
