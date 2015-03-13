@@ -18,3 +18,4 @@ To run the specs follow these commands:
 - to run in the browser
   - `jasmine-flatiron -b`
  
+ 
