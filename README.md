@@ -8,6 +8,3 @@ level: advanced
  
 
 SOMETHING
-asdfasdfasdf
-asadasd
-sdf
